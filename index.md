@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Workshop Title
 An easy to follow template for running workshops.
 
@@ -38,3 +42,4 @@ If this lab was too simple or you completed it (like a boss):
 ## Resources
 
 * Kelsey Hightower's [Kubernetes 101 Workshop](https://github.com/kelseyhightower/craft-kubernetes-workshop) is the best example I've seen of this format.
+
