@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Lab Name
 In this Lab, we'll talk about how to structure a Lab to make it easy for someone to learn from.
 

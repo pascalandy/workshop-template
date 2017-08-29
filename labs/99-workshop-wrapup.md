@@ -1,3 +1,7 @@
+---
+layout: default
+---
+  
 # Workshop Wrap Up
 
 OK, so you've knocked out most of your workshop.  

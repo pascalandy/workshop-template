@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Workshop Setup
 
 Setting up the workshop is the hardest part. I generally run through all setup steps together to make sure everyone reaches the same starting point.

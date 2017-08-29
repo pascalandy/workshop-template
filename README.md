@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Workshop Title
 An easy to follow template for running workshops.
 
@@ -17,11 +21,11 @@ Lastly, the biggest factor determining if a workshop will be successful is prepa
 
 ## Labs
 
-1. [Workshop Setup](labs/workshop-setup.md)
-1. [Lab 1](labs/lab-template.md)
-1. [Lab 2](labs/lab-template.md)
-1. [Lab N](labs/lab-template.md)
-1. [Workshop Wrap Up](labs/workshop-wrapup.md)
+1. [Workshop Setup](/labs/00-workshop-setup)
+1. [Step 1](/labs/01-step1)
+1. [Step 2](/labs/02-step2)
+1. [lab template](/labs/99-lab-template)
+1. [Workshop Wrap Up](/labs/99-workshop-wrapup)
 
 > **NOTE:** Setting up labs this way makes it really easy for a workshop presenter to say, "Everyone, we're going to run through the Workshop Setup now." Then, after explaining the lab, and while everyone else is running through it, you can go around and help atttendees that need additional help.
 
@@ -38,3 +42,4 @@ If this lab was too simple or you completed it (like a boss):
 ## Resources
 
 * Kelsey Hightower's [Kubernetes 101 Workshop](https://github.com/kelseyhightower/craft-kubernetes-workshop) is the best example I've seen of this format.
+
