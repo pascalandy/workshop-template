@@ -10,6 +10,8 @@ I try to present the information in Problem - Solution - Example format.
 I generally break down labs into 20 minutes of material. I'll present on the topic for 5-10 minutes and then I'll have attendes run through the Lab on their own for 10-15 minutes.  
 Afterwards, I'll present myself running through the lab, so that attendees can follow along and so that I can provide additional insights into the Solution / Example.
 
+![image demo](/images/portfolio_103.jpg)
+
 If I'm short on time or have some reason not to put the Problem and Solution information onto a github page, then I'll just have the Example on the githbub page and explain the Problem and Solution via slides. 
 Either way, the critical information is always being displayed in the proper order.
 
